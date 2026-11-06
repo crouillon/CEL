@@ -3,11 +3,12 @@ id: xFvgjIhp1RBAJYgXVZme
 type: page
 title: Histoire du club
 slug: histoire
-status: draft
+status: online
 authorId: "github:crouillon"
 termIds: []
 createdAt: "2026-11-06T16:41:57.937Z"
-updatedAt: "2026-11-06T16:41:57.937Z"
+updatedAt: "2026-11-06T16:42:00.572Z"
+publishedAt: "2026-11-06T16:42:00.572Z"
 ---
 
 Le Cercle d'Escrime de Laval a été fondé en 1954 par des militaires.
