@@ -31,5 +31,13 @@
   "title": "Cercle d'Escrime de Laval",
   "description": "Club d'escrime à Laval depuis 1954. Enseignement du fleuret, de l'épée et du sabre dès 6 ans.",
   "language": "fr",
+  "enabledPlugins": {
+    "core-seo": true,
+    "agentcms-sitemaps": true,
+    "agentcms-rss": true,
+    "agentcms-archives": true,
+    "agentcms-import": false,
+    "agentcms-multilang": false
+  },
   "id": "site"
 }
