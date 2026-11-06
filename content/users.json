@@ -1,0 +1,14 @@
+[
+  {
+    "id": "github:crouillon",
+    "email": "crouillon@users.noreply.github.com",
+    "role": "admin",
+    "disabled": false,
+    "preferences": {
+      "adminLocale": "en"
+    },
+    "createdBy": "github:crouillon",
+    "displayName": "crouillon",
+    "createdAt": 1793982753316
+  }
+]
