@@ -39,5 +39,6 @@
     "agentcms-import": false,
     "agentcms-multilang": false
   },
+  "activeThemeId": "corporate",
   "id": "site"
 }
