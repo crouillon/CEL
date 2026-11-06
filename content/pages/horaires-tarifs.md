@@ -3,11 +3,12 @@ id: mRJ9Jd1xf28PAKLytvwX
 type: page
 title: Horaires et Tarifs
 slug: horaires-tarifs
-status: draft
+status: online
 authorId: "github:crouillon"
 termIds: []
 createdAt: "2026-11-06T16:42:35.287Z"
-updatedAt: "2026-11-06T16:42:35.287Z"
+updatedAt: "2026-11-06T16:42:38.108Z"
+publishedAt: "2026-11-06T16:42:38.108Z"
 ---
 
 ## Horaires
