@@ -3,6 +3,16 @@
   "pluginConfigs": {
     "agentcms-multilang": {
       "lastPublishedLanguages": []
+    },
+    "agentcms-rss": {
+      "site": {
+        "enabled": false,
+        "itemCount": 20,
+        "excludedTermIds": [],
+        "addToFooter": false,
+        "lastLocalePaths": []
+      },
+      "categoryFeeds": []
     }
   },
   "id": "site"
