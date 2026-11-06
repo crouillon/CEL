@@ -13,6 +13,19 @@
         "lastLocalePaths": []
       },
       "categoryFeeds": []
+    },
+    "agentcms-search": {
+      "indexExcerpt": true,
+      "indexCategory": true,
+      "indexTags": false,
+      "includePages": false,
+      "excludedTermIds": [],
+      "minQueryLength": 2,
+      "maxResults": 20,
+      "lastIndexHash": "cb5aed0b8c8a76443224c813febbe124fa4e0f5eb749f0320515d56c20b9e3fb",
+      "lastRuntimeHash": "d49a4085ce5763bd2133ffa23ddce0a884a91a8606a7b36bb0976834b7b729f6",
+      "lastLocalePaths": [],
+      "lastIndexedAt": 1793982298812
     }
   },
   "id": "site"
