@@ -1,4 +1,9 @@
 {
   "baseUrl": "https://crouillon.github.io/CEL",
+  "pluginConfigs": {
+    "agentcms-multilang": {
+      "lastPublishedLanguages": []
+    }
+  },
   "id": "site"
 }
