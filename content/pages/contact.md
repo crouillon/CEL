@@ -3,11 +3,12 @@ id: 9ULSnbQhq8eGdDmYsgDs
 type: page
 title: Contact
 slug: contact
-status: draft
+status: online
 authorId: "github:crouillon"
 termIds: []
 createdAt: "2026-11-06T16:44:28.536Z"
-updatedAt: "2026-11-06T16:44:28.536Z"
+updatedAt: "2026-11-06T16:44:32.497Z"
+publishedAt: "2026-11-06T16:44:32.497Z"
 ---
 
 ## Contactez-nous
