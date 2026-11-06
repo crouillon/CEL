@@ -1,5 +1,13 @@
 [
   {
+    "id": "YDTdvG9OCBNIfdCLeUIy",
+    "type": "category",
+    "name": "L'Escrime",
+    "slug": "escrime",
+    "createdAt": 1793983199579,
+    "updatedAt": 1793983199579
+  },
+  {
     "id": "mCHzw1CcAJjTBFQSZ703",
     "type": "category",
     "name": "Le Club",
