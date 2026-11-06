@@ -1,0 +1,12 @@
+{
+  "id": "storage",
+  "connectorId": "git-pages",
+  "settings": {
+    "host": "github-pages",
+    "provider": "github",
+    "branch": "gh-pages",
+    "owner": "crouillon",
+    "repo": "CEL",
+    "siteUrl": "https://crouillon.github.io/CEL"
+  }
+}
