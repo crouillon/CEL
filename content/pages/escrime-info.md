@@ -3,11 +3,12 @@ id: McZXS4f7UBEyA0a1GjQU
 type: page
 title: L'Escrime
 slug: escrime-info
-status: draft
+status: online
 authorId: "github:crouillon"
 termIds: []
 createdAt: "2026-11-06T16:43:06.248Z"
-updatedAt: "2026-11-06T16:43:06.248Z"
+updatedAt: "2026-11-06T16:43:09.136Z"
+publishedAt: "2026-11-06T16:43:09.136Z"
 ---
 
 ## Qu'est-ce que l'escrime ?
