@@ -1,0 +1,50 @@
+[
+  {
+    "id": "qWgXJz5fmLwwe8L5cxUs",
+    "name": "logo-cel.png",
+    "contentType": "image/webp",
+    "size": 100174,
+    "storageBase": "media/2026/11/logo-cel-309484",
+    "formats": {
+      "admin-thumb": {
+        "url": "https://crouillon.github.io/CEL/media/2026/11/logo-cel-309484/admin-thumb.webp",
+        "width": 240,
+        "height": 240,
+        "bytes": 6078
+      },
+      "admin-preview": {
+        "url": "https://crouillon.github.io/CEL/media/2026/11/logo-cel-309484/admin-preview.webp",
+        "width": 464,
+        "height": 461,
+        "bytes": 12090
+      },
+      "admin-original": {
+        "url": "https://crouillon.github.io/CEL/media/2026/11/logo-cel-309484/admin-original.webp",
+        "width": 464,
+        "height": 461,
+        "bytes": 16556
+      },
+      "small": {
+        "url": "https://crouillon.github.io/CEL/media/2026/11/logo-cel-309484/small.webp",
+        "width": 480,
+        "height": 480,
+        "bytes": 13854
+      },
+      "medium": {
+        "url": "https://crouillon.github.io/CEL/media/2026/11/logo-cel-309484/medium.webp",
+        "width": 800,
+        "height": 800,
+        "bytes": 24156
+      },
+      "large": {
+        "url": "https://crouillon.github.io/CEL/media/2026/11/logo-cel-309484/large.webp",
+        "width": 1600,
+        "height": 900,
+        "bytes": 27440
+      }
+    },
+    "defaultFormat": "medium",
+    "uploadedAt": 1793991143595,
+    "uploadedBy": "github:crouillon"
+  }
+]
