@@ -1,5 +1,13 @@
 [
   {
+    "id": "4zR73zqGX7xy9KNqceZO",
+    "type": "category",
+    "name": "Actualités",
+    "slug": "actualites",
+    "createdAt": 1793983236172,
+    "updatedAt": 1793983236172
+  },
+  {
     "id": "YDTdvG9OCBNIfdCLeUIy",
     "type": "category",
     "name": "L'Escrime",
