@@ -45,10 +45,13 @@
       "logoEnabled": true,
       "logoUpdatedAt": 1794052711668,
       "style": {
-        "vars": {},
+        "vars": {
+          "--color-primary": "#0A1E4A",
+          "--color-accent": "#B7168E"
+        },
         "fontSans": "Inter"
       },
-      "cssUpdatedAt": 0,
+      "cssUpdatedAt": 1794054929687,
       "home": {
         "showHero": true,
         "hero": {
