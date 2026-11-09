@@ -7,7 +7,7 @@ status: online
 authorId: "github:crouillon"
 termIds: ["4zR73zqGX7xy9KNqceZO"]
 createdAt: "2026-11-09T10:00:00.000Z"
-updatedAt: "2026-11-09T10:00:00.000Z"
+updatedAt: "2026-11-09T12:10:51.480Z"
 publishedAt: "2026-11-09T10:00:00.000Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
 excerpt: "La nouvelle saison d'escrime démarre au CEL ! Inscriptions ouvertes pour tous les âges : enfants, adultes, débutants ou confirmés — venez croiser le fer avec nous."
