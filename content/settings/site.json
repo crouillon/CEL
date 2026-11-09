@@ -29,7 +29,7 @@
     }
   },
   "title": "Cercle d'Escrime de Laval",
-  "description": "Club d'escrime à Laval depuis 1954. Enseignement du fleuret, de l'épée et du sabre dès 6 ans.",
+  "description": "Club d'escrime à Laval depuis 1954. Fleuret, épée, sabre — pour tous les niveaux dès 6 ans, dans la salle Laura Flessel.",
   "language": "fr",
   "enabledPlugins": {
     "core-seo": true,
@@ -55,52 +55,52 @@
       "home": {
         "showHero": true,
         "hero": {
-          "imageUrl": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&w=1920&q=80",
-          "imageAlt": "Modern corporate office",
-          "eyebrow": "Innovation & reliability",
-          "title": "Propel your business toward the future",
-          "subtitle": "Strategic, tailor-made solutions for SMEs seeking digital growth and operational excellence.",
-          "primaryCtaLabel": "Get started",
+          "imageUrl": "https://images.unsplash.com/photo-1505619656705-59ebc350b547?auto=format&fit=crop&w=1920&q=80",
+          "imageAlt": "Deux escrimeurs en action dans une salle d'entraînement",
+          "eyebrow": "Club fondé en 1954 · Laval, Mayenne",
+          "title": "L'art du duel. La discipline du sport.",
+          "subtitle": "Fleuret, épée, sabre — pour tous les niveaux, dès 6 ans, dans la salle Laura Flessel.",
+          "primaryCtaLabel": "Rejoindre le club",
           "primaryCtaHref": "/contact.html",
-          "secondaryCtaLabel": "See our solutions",
-          "secondaryCtaHref": "#services"
+          "secondaryCtaLabel": "Découvrir l'escrime",
+          "secondaryCtaHref": "/escrime-info.html"
         },
         "featuredPosts": {
           "enabled": true,
-          "title": "Our latest insights",
-          "subtitle": "Stay ahead of the curve with strategic perspectives from our team of experts.",
+          "title": "Actualités du club",
+          "subtitle": "Suivez la vie du Cercle d'Escrime de Laval : événements, compétitions et annonces.",
           "mode": "all",
           "categoryId": "",
           "count": 3
         },
         "testimonials": {
           "enabled": true,
-          "eyebrow": "",
-          "title": "Trusted by industry leaders",
-          "subtitle": "More than 500 businesses accelerate their growth with us.",
+          "eyebrow": "Ils pratiquent avec nous",
+          "title": "Ce qu'en disent nos membres",
+          "subtitle": "Plus de 70 escrimeurs nous font confiance chaque saison.",
           "variant": "glass",
           "items": [
             {
               "rating": 5,
-              "quote": "Their platform completely changed our customer-service approach. We cut operational costs by 30% in six months.",
-              "authorName": "Jean-Pierre Dubois",
-              "authorTitle": "Operations Director, LogisTech",
+              "quote": "J'ai rejoint le CEL il y a cinq ans pour pratiquer l'épée. L'ambiance est excellente, les entraîneurs très compétents. Je recommande à tous ceux qui cherchent un sport complet et technique.",
+              "authorName": "Julien T.",
+              "authorTitle": "Escrimeur adulte, épée",
               "authorAvatarUrl": "",
               "authorAvatarAlt": ""
             },
             {
               "rating": 5,
-              "quote": "Exceptional strategic guidance — they truly understand the challenges modern SMEs face. An indispensable partner.",
-              "authorName": "Marie Leroux",
-              "authorTitle": "Founder, GreenPulse",
+              "quote": "Ma fille a commencé le fleuret à 8 ans et elle adore ! La progression est rapide grâce à un encadrement de qualité. Le club est vraiment accueillant pour toute la famille.",
+              "authorName": "Isabelle D.",
+              "authorTitle": "Mère d'une jeune escrimeuse",
               "authorAvatarUrl": "",
               "authorAvatarAlt": ""
             },
             {
               "rating": 5,
-              "quote": "The cloud transition was surprisingly fluid. They handled the technical complexity, letting us focus on our core business.",
-              "authorName": "Thomas Martin",
-              "authorTitle": "CTO, DataSecure",
+              "quote": "Retraité, j'ai voulu reprendre une activité sportive. L'escrime au CEL, c'est le parfait équilibre entre sport, réflexion et convivialité. On n'est jamais trop vieux pour commencer !",
+              "authorName": "Bernard L.",
+              "authorTitle": "Sabreur amateur, 64 ans",
               "authorAvatarUrl": "",
               "authorAvatarAlt": ""
             }
@@ -110,11 +110,11 @@
       "single": {
         "showAuthorBio": false,
         "showPopularArticles": true,
-        "popularArticlesTitle": "",
+        "popularArticlesTitle": "À lire aussi",
         "showCta": true,
-        "ctaTitle": "",
-        "ctaButtonLabel": "",
-        "ctaButtonHref": ""
+        "ctaTitle": "Prêt à croiser le fer ?",
+        "ctaButtonLabel": "Nous contacter",
+        "ctaButtonHref": "/contact.html"
       }
     }
   },
