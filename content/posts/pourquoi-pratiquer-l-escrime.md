@@ -1,18 +1,18 @@
 ---
 id: Dm9kLvPw4NZQcef7hSoX
 type: post
-title: "5 bonnes raisons de pratiquer l'escrime"
+title: 5 bonnes raisons de pratiquer l'escrime
 slug: pourquoi-pratiquer-l-escrime
 status: online
 authorId: "github:crouillon"
 termIds: ["4zR73zqGX7xy9KNqceZO"]
 createdAt: "2026-11-09T11:00:00.000Z"
-updatedAt: "2026-11-09T11:00:00.000Z"
+updatedAt: "2026-11-09T12:10:44.557Z"
 publishedAt: "2026-11-09T11:00:00.000Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
 excerpt: "Sport de combat, sport de réflexion, sport de toute une vie — voici pourquoi l'escrime est bien plus qu'un loisir. Découvrez les 5 raisons de rejoindre le CEL cette saison."
 coverImageUrl: "https://cdn.pixabay.com/photo/2019/06/25/11/24/fencing-4297989_1280.jpg"
-coverImageAlt: "Escrimeurs en action lors d'un assaut"
+coverImageAlt: Escrimeurs en action lors d'un assaut
 ---
 
 # 5 bonnes raisons de pratiquer l'escrime

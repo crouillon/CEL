@@ -10,9 +10,9 @@ createdAt: "2026-11-09T10:30:00.000Z"
 updatedAt: "2026-11-09T10:30:00.000Z"
 publishedAt: "2026-11-09T10:30:00.000Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
-excerpt: "Notre salle d'entraînement porte le nom de Laura Flessel, double championne olympique et icône de l'escrime mondiale. Retour sur un parcours hors du commun."
+excerpt: Notre salle d'entraînement porte le nom de Laura Flessel, double championne olympique et icône de l'escrime mondiale. Retour sur un parcours hors du commun.
 coverImageUrl: "https://images.unsplash.com/photo-1545175928-65a104e66691?auto=format&fit=crop&w=1200&q=80"
-coverImageAlt: "Épée d'escrime en gros plan"
+coverImageAlt: Épée d'escrime en gros plan
 ---
 
 # Laura Flessel : la guerrière qui inspire le CEL

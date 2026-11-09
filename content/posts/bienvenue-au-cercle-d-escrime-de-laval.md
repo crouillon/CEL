@@ -10,9 +10,9 @@ createdAt: "2026-11-06T16:30:54.207Z"
 updatedAt: "2026-11-09T10:00:00.000Z"
 publishedAt: "2026-11-06T16:33:05.902Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
-excerpt: "Depuis 1954, le Cercle d'Escrime de Laval forme les escrimeurs de la Mayenne. Découvrez notre club, nos installations et comment nous rejoindre."
+excerpt: Depuis 1954, le Cercle d'Escrime de Laval forme les escrimeurs de la Mayenne. Découvrez notre club, nos installations et comment nous rejoindre.
 coverImageUrl: "https://images.unsplash.com/photo-1636812028884-8046cff5e68d?auto=format&fit=crop&w=1200&q=80"
-coverImageAlt: "Groupe d'escrimeurs en entraînement"
+coverImageAlt: Groupe d'escrimeurs en entraînement
 ---
 
 # Bienvenue au Cercle d'Escrime de Laval

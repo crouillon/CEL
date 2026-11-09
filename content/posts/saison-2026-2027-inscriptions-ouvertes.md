@@ -12,7 +12,7 @@ publishedAt: "2026-11-09T10:00:00.000Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
 excerpt: "La nouvelle saison d'escrime démarre au CEL ! Inscriptions ouvertes pour tous les âges : enfants, adultes, débutants ou confirmés — venez croiser le fer avec nous."
 coverImageUrl: "https://images.unsplash.com/photo-1487491523440-5b24289ed510?auto=format&fit=crop&w=1200&q=80"
-coverImageAlt: "Escrimeurs en tenue blanche lors d'un assaut"
+coverImageAlt: Escrimeurs en tenue blanche lors d'un assaut
 ---
 
 # Saison 2026-2027 : inscriptions ouvertes !
