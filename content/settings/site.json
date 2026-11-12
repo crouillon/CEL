@@ -39,7 +39,7 @@
     "agentcms-import": false,
     "agentcms-multilang": false
   },
-  "activeThemeId": "corporate",
+  "activeThemeId": "magazine",
   "themeConfigs": {
     "corporate": {
       "logoEnabled": true,
