@@ -7,7 +7,7 @@ status: online
 authorId: "github:crouillon"
 termIds: []
 createdAt: "2026-11-06T16:43:06.248Z"
-updatedAt: "2026-11-09T12:11:02.547Z"
+updatedAt: "2026-11-12T10:09:02.722Z"
 publishedAt: "2026-11-06T16:43:09.246Z"
 ---
 
