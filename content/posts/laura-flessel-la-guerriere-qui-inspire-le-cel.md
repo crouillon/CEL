@@ -7,7 +7,7 @@ status: online
 authorId: "github:crouillon"
 termIds: ["4zR73zqGX7xy9KNqceZO"]
 createdAt: "2026-11-09T10:30:00.000Z"
-updatedAt: "2026-11-09T12:10:47.532Z"
+updatedAt: "2026-11-12T10:08:46.027Z"
 publishedAt: "2026-11-09T10:30:00.000Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
 excerpt: Notre salle d'entraînement porte le nom de Laura Flessel, double championne olympique et icône de l'escrime mondiale. Retour sur un parcours hors du commun.
