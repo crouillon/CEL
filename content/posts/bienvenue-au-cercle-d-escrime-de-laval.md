@@ -7,7 +7,7 @@ status: online
 authorId: "github:crouillon"
 termIds: ["4zR73zqGX7xy9KNqceZO"]
 createdAt: "2026-11-06T16:30:54.207Z"
-updatedAt: "2026-11-12T10:08:54.322Z"
+updatedAt: "2026-11-12T10:14:12.428Z"
 publishedAt: "2026-11-06T16:33:05.902Z"
 primaryTermId: 4zR73zqGX7xy9KNqceZO
 excerpt: Depuis 1954, le Cercle d'Escrime de Laval forme les escrimeurs de la Mayenne. Découvrez notre club, nos installations et comment nous rejoindre.
